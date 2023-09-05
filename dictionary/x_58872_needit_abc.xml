@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="61b6d5814705711090954c6d826d4309" label="Abc" max_length="40" name="x_58872_needit_abc" type="collection">
+        <element label="IsRight" max_length="40" name="isright" type="boolean"/>
+    </element>
+</database>
